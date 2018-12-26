@@ -4,4 +4,4 @@ python:
   - 3.6
 
 script:
-  - python test/test_fibonacci.py
+  - python tests/test_fibonacci.py
